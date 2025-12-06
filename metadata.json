@@ -1,0 +1,7 @@
+{
+  "name": "WiseCrowd AI - Powered by WiseCrew Solutions",
+  "description": "Wisecrew AI Powered Crowd Detection in Events. Real-time crowd safety prediction, risk scoring, and anomaly detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
